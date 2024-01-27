@@ -1,0 +1,7 @@
+# 구구단
+
+from sys import stdin
+input = stdin.readline()
+
+n = input
+print('\n'.join(map(str, [f"{n} * {i} = {n*i}" for i in range(1, 10)])))

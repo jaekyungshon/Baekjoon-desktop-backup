@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+E:\StudyProject\baekjoon\Vim_Solution\.metadata\.plugins\org.eclipse.jdt.core
+2056116936.index

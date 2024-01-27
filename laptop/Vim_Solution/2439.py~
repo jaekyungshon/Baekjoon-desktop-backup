@@ -1,0 +1,8 @@
+# Star Loop -2
+
+from sys import stdin, stdout
+inp = stdin.readline
+pr = stdout.write
+
+for i in range(int(inp())-1, 0, -1):
+    pr(str(i));

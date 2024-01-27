@@ -1,0 +1,34 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v170)
+"   E:/공부및프로젝트/백준/Vim백준풀이
+"   Sorted by      name
+"   Sort sequence: [\/]$,\.h$,\.c$,\.cpp$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+1330.c
+2753.c
+9498.c
+fileTest.c
+1330.py
+2753.exe*
+2753.py
+9498.exe*
+9498.py
+Solution1330.java
+Solution2753.class
+Solution2753.java
+Solution9498.java
+fileTest.exe*
+.1330.c.un~
+.1330.py.un~
+.1330.un~
+.2753.c.un~
+.2753.java.un~
+.2753.py.un~
+.9498.c.un~
+.9498.py.un~
+.Solution1330.java.un~
+.Solution2753.java.un~
+.fileTest.c.un~

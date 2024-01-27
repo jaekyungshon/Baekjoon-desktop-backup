@@ -1,0 +1,20 @@
+// N Star Loop
+
+import java.util.*;
+import java.io.*;
+
+public class Solution2741 {
+
+	public static void main(String[] args) throws IOException {
+		BufferedReader r = new BufferedReader(new InputStreamReader(System.in));
+		BufferedWriter w = new BufferedWriter(new OutputStreamWriter(System.out));
+		
+		int loopCnt = Integer.parseInt(r.readLine());
+		for(int i = 1; i <= loopCnt; i++){
+			w.write(Integer.toString(i)+"\n");
+			w.flush();
+		}
+		w.close();
+	}
+
+}
